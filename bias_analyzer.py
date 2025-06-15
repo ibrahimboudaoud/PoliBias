@@ -20,4 +20,5 @@ def getText(a : Article):
     a.parse()
     return a.text
 
+# Clean
 getURl()
